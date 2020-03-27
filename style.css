@@ -43,7 +43,7 @@ button {
   background-color: rgb(189, 154, 230);
   text-transform: uppercase;
   transition: 0.5s;
-  outline: 0;
+  outline: none;
 }
 
 button:active {
